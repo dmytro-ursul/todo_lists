@@ -13,7 +13,7 @@ gem 'figaro'
 
 group :development, :test do
   gem 'jasmine'
-  gem 'sqlite3', '1.3.5'
+  gem 'sqlite3', '2.10.2'
   gem 'rspec-rails', '2.11.0'
   gem 'spork', '0.9.2'
   gem 'guard'
